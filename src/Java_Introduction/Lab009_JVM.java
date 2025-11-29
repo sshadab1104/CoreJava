@@ -1,4 +1,7 @@
 package Java_Introduction;
 
-public class Lab008_JVM {
+public class Lab009_JVM {
+    // 1. JVM: Java Virtual Machine.
+    // 2. It is basically help to run the program
+    // 3. Real task of JVM is to convert the Byte code into the Native Code
 }
