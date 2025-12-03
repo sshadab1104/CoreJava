@@ -1,4 +1,4 @@
-package Java_Introduction;
+package Java_001_Introduction;
 
 public class Lab007_JDK {
     // 1. JDK: Java Development Kit

@@ -1,4 +1,4 @@
-package Variables;
+package Java_002_Variables;
 
 public class Lab012_Variable {
     // Variable:

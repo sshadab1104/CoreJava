@@ -1,4 +1,4 @@
-package Java_Introduction;
+package Java_001_Introduction;
 
 public class Lab001_Java_Intro {
     // What is Java?

@@ -1,4 +1,4 @@
-package Java_Introduction;
+package Java_001_Introduction;
 
 public class Lab008_JRE {
     // 1. JRE: Java Runtime Environment

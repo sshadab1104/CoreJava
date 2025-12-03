@@ -1,4 +1,4 @@
-package Java_Introduction;
+package Java_001_Introduction;
 
 public class Lab009_JVM {
     // 1. JVM: Java Virtual Machine.

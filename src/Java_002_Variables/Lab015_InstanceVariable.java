@@ -1,4 +1,4 @@
-package Variables;
+package Java_002_Variables;
 
 public class Lab015_InstanceVariable {
 
@@ -13,4 +13,9 @@ public class Lab015_InstanceVariable {
 
 //Instance Variable: Declared inside a class but outside methods;
 // each object gets its own copy.
+
+//✔ Features:
+//  1. Each object gets its own copy
+//  2. Has default values
+//  3. Stored in heap memory
 

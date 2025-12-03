@@ -1,4 +1,4 @@
-package Java_Introduction;
+package Java_001_Introduction;
 
 public class Lab004_SourceCode {
     // Human understandable code written using HLL programing language is called as Source code

@@ -1,4 +1,4 @@
-package Java_Introduction;
+package Java_001_Introduction;
 
 public class Lab011_FirstProgram {
     public static void main(String[] args) {
