@@ -1,4 +1,4 @@
-package Java_004_Operators;
+package Java_004_Operators.ex1_TypeOfOperators1;
 
 public class Lab022_Comparison_RelationalOperators {
     // Used to compare two values → results in true / false.

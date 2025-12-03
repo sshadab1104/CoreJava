@@ -1,4 +1,4 @@
-package Java_004_Operators;
+package Java_004_Operators.ex1_TypeOfOperators1;
 
 public class Lab021_ArithmeticOperators {
     // Arithmetic Operators: used to performed mathematical operations

@@ -1,4 +1,4 @@
-package Java_004_Operators;
+package Java_004_Operators.ex1_TypeOfOperators1;
 
 public class Lab020_Operator {
     // Operator is basically a type of special symbol which basically tells the compiler to

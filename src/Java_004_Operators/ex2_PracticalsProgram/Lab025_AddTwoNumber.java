@@ -1,4 +1,4 @@
-package Java_004_Operators.PracticalsProgram;
+package Java_004_Operators.ex2_PracticalsProgram;
 
 public class Lab025_AddTwoNumber {
     public static void main(String[] args) {

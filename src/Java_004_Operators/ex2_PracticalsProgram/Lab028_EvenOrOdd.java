@@ -1,4 +1,4 @@
-package Java_004_Operators.PracticalsProgram;
+package Java_004_Operators.ex2_PracticalsProgram;
 
 import java.util.Scanner;
 
