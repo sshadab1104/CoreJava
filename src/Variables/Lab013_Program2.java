@@ -1,6 +1,6 @@
-package VariablesAndDataTypes;
+package Variables;
 
-public class Lab012_Program2 {
+public class Lab013_Program2 {
     public static void main(String[] args) {
         //Create 10 variables (name, age, salary, etc.)
         int age = 20;
