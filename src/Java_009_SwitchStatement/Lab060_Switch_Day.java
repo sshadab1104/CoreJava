@@ -2,7 +2,7 @@ package Java_009_SwitchStatement;
 
 import java.util.Scanner;
 
-public class Lab060_Switch_ex1 {
+public class Lab060_Switch_Day {
     public static void main(String[] args) {
         // User - Enter the number from 1 to 7.
         // Which day it is.
