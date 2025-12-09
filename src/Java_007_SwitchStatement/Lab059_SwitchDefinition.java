@@ -1,4 +1,4 @@
-package Java_009_SwitchStatement;
+package Java_007_SwitchStatement;
 
 public class Lab059_SwitchDefinition {
     // What is Switch Statement?

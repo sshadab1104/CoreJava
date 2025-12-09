@@ -1,4 +1,4 @@
-package Java_009_SwitchStatement;
+package Java_007_SwitchStatement;
 
 public class Lab063 {
     public static void main(String[] args) {
