@@ -1,5 +1,6 @@
 package Java_001_Introduction;
 
 public class Lab002_HLL {
-    // HLL (High-Level Language) are human friendly which basically can understand by the human
+    // HLL (High-Level Language) are human friendly which
+    // basically can understand by the human
 }
