@@ -11,8 +11,8 @@ public class Lab_105_LinearSearch {
         int n = sc.nextInt();
         int[] arr = new int[n];
 
-        System.out.println("Enter the Array Elements:");
         for (int i=0; i<arr.length; i++){
+            System.out.println("Enter the Array Elements:");
             arr[i]= sc.nextInt();
         }
         System.out.println("Enter the X element");
