@@ -1,4 +1,4 @@
-package Java_014_OOPs.Class_And_Object_01;
+package Java_014_OOPs.Class_And_Object.Level_1_Foundation_Basic;
 
 public class Lab_122_Environment_RunnerClass {
     public static void main(String[] args) {
