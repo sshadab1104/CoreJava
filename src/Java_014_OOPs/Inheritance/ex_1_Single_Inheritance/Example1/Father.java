@@ -1,4 +1,4 @@
-package Java_014_OOPs.Inheritance.Example1;
+package Java_014_OOPs.Inheritance.ex_1_Single_Inheritance.Example1;
 
 public class Father {
     // Attribute
